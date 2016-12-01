@@ -2,9 +2,6 @@
 exec /usr/local/share/scala/bin/scala "$0" "$@"
 !#
 
-// exec scala "$0" "$@"
-// exec /usr/local/share/scala/bin/scala "$0" "$@"
-
 object Mapper {
 
   def processLine: Unit = {
